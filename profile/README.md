@@ -27,7 +27,7 @@
 
 [discordlists-release]: https://img.shields.io/pypi/v/discordlists.py.svg?label=Latest%20Release&style=flat-square
 [discordlists-language]: https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white&style=flat-square
-[discordlists-maintainer]: https://img.shields.io/badge/Maintained%20by-xXBuilderBXx-blue?style=flat-square
+[discordlists-maintainer]: https://img.shields.io/badge/Maintained%20by-MattIPv4-blue?style=flat-square
 
 [javabotblockapi-release]: https://img.shields.io/nexus/maven-public/org.botblock/javabotblockapi-core?label=Latest%20Release&server=https%3A%2F%2Frepo.codemc.io&style=flat-square
 [javabotblockapi-language]: https://img.shields.io/badge/Java-b07219?logo=java&logoColor=white&style=flat-square
