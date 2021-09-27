@@ -33,10 +33,10 @@
 [javabotblockapi-language]: https://img.shields.io/badge/Java-b07219?logo=java&logoColor=white&style=flat-square
 [javabotblockapi-maintainer]: https://img.shields.io/badge/Maintained%20by-Andre601-blue?style=flat-square
 
-[view-github]: https://img.shields.io/badge/View%20on%20GitHub-359DC4?style=for-the-badge
-[view-npm]: https://img.shields.io/badge/View%20on%20NPM-359DC4?style=for-the-badge
-[view-nuget]: https://img.shields.io/badge/View%20on%20NuGet-359DC4?style=for-the-badge
-[view-pypi]: https://img.shields.io/badge/View%20on%20PyPi-359DC4?style=for-the-badge
+[view-github]: https://img.shields.io/badge/View%20on%20GitHub-359DC4?style=for-the-badge&logo=github
+[view-npm]: https://img.shields.io/badge/View%20on%20NPM-359DC4?style=for-the-badge&logo=npm
+[view-nuget]: https://img.shields.io/badge/View%20on%20NuGet-359DC4?style=for-the-badge&logo=nuget
+[view-pypi]: https://img.shields.io/badge/View%20on%20PyPi-359DC4?style=for-the-badge&logo=pypi&logoColor=white
 [view-codemc]: https://img.shields.io/badge/View%20on%20CodeMC-359DC4?style=for-the-badge
 
 <!-- Lib downloads -->
