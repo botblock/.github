@@ -13,31 +13,26 @@
 [header]: https://raw.githubusercontent.com/botblock/.github/main/assets/img/header.png
 
 <!-- Badges -->
-[blapi-language]: https://img.shields.io/badge/TypeScript-2b7489?logo=typescript&logoColor=white&style=flat-square
 [blapi-release]: https://img.shields.io/npm/v/blapi.svg?label=&style=flat-square&color=555555
 [blapi-maintainer]: https://img.shields.io/badge/T0TProduction-555555?style=flat-square&color=555555
 
-[botlist-language]: https://img.shields.io/badge/JavaScript-f1e05a?logo=javascript&logoColor=black&style=flat-square
 [botlist-release]: https://img.shields.io/npm/v/botlist.svg?label=&style=flat-square&color=555555
 [botlist-maintainer]: https://img.shields.io/badge/PassTheMayo-blue?style=flat-square&color=555555
 
-[botlistapi-language]: https://img.shields.io/badge/C%23-178600?logo=c-sharp&logoColor=white&style=flat-square
 [botlistapi-release]: https://img.shields.io/nuget/v/botlistapi.svg?label=&style=flat-square&color=555555
 [botlistapi-maintainer]: https://img.shields.io/badge/xXBuilderBXx-blue?style=flat-square&color=555555
 
-[discordlists-language]: https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white&style=flat-square
 [discordlists-release]: https://img.shields.io/pypi/v/discordlists.py.svg?label=&style=flat-square&color=555555
 [discordlists-maintainer]: https://img.shields.io/badge/MattIPv4-blue?style=flat-square&color=555555
 
-[jbba-language]: https://img.shields.io/badge/Java-b07219?logo=java&logoColor=white&style=flat-square
 [jbba-release]: https://img.shields.io/nexus/maven-public/org.botblock/javabotblockapi-core?label=&server=https%3A%2F%2Frepo.codemc.io&style=flat-square&color=555555
 [jbba-maintainer]: https://img.shields.io/badge/Andre601-blue?style=flat-square&color=555555
 
-[view-github]: https://raw.githubusercontent.com/botblock/.github/main/assets/badges/view-github.png
-[view-npm]: https://raw.githubusercontent.com/botblock/.github/main/assets/badges/view-npm.png
-[view-nuget]: https://raw.githubusercontent.com/botblock/.github/main/assets/badges/view-nuget.png
-[view-pypi]: https://raw.githubusercontent.com/botblock/.github/main/assets/badges/view-pypi.png
-[view-codemc]: https://raw.githubusercontent.com/botblock/.github/main/assets/badges/view-codemc.png
+[typescript]: https://img.shields.io/badge/TypeScript-2b7489?logo=typescript&logoColor=white&style=flat-square
+[javascript]: https://img.shields.io/badge/JavaScript-f1e05a?logo=javascript&logoColor=black&style=flat-square
+[c-sharp]: https://img.shields.io/badge/C%23-178600?logo=c-sharp&logoColor=white&style=flat-square
+[python]: https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white&style=flat-square
+[java]: https://img.shields.io/badge/Java-b07219?logo=java&logoColor=white&style=flat-square
 
 <!-- Lib downloads -->
 [blapi-download]: https://www.npmjs.com/package/blapi
@@ -81,10 +76,10 @@ A list of things a bot list can or should (not) do to be considered a good bot l
 This is a list of all libraries available in this org that are made to allow easy usage of the [BotBlock API][api].  
 Please note that not all libraries are maintained by the BotBlock Team and may have a different maintainer you need to contact in case of questions.
 
-|                                          | Language                 | Latest Release                                   | Maintainer                               |
-| ---------------------------------------- |:------------------------:|:------------------------------------------------:|:----------------------------------------:|
-| [**BLAPI**][blapi-repo]                  | ![blapi-language]        | [![blapi-release]][blapi-download]               | [![blapi-maintainer]][t0tproduction]     |
-| [**BotList**][botlist-repo]              | ![botlist-language]      | [![botlist-release]][botlist-download]           | [![botlist-maintainer]][passthemayo]     |
-| [**BotListAPI**][botlistapi-repo]        | ![botlistapi-language]   | [![botlistapi-release]][botlistapi-download]     | [![botlistapi-maintainer]][xxbuilderbxx] |
-| [**discordlists.py**][discordlists-repo] | ![discordlists-language] | [![discordlists-release]][discordlists-download] | [![discordlists-maintainer]][mattipv4]   |
-| [**JavaBotBlockAPI**][jbba-repo]         | ![jbba-language]         | [![jbba-release]][jbba-download]                 | [![jbba-maintainer]][andre601]           |
+|                                          | Language                    | Latest Release                                   | Maintainer                               |
+| ---------------------------------------- |:---------------------------:|:------------------------------------------------:|:----------------------------------------:|
+| [**BLAPI**][blapi-repo]                  | ![typescript] ![javascript] | [![blapi-release]][blapi-download]               | [![blapi-maintainer]][t0tproduction]     |
+| [**BotList**][botlist-repo]              | ![javascript]               | [![botlist-release]][botlist-download]           | [![botlist-maintainer]][passthemayo]     |
+| [**BotListAPI**][botlistapi-repo]        | ![c-sharp]                  | [![botlistapi-release]][botlistapi-download]     | [![botlistapi-maintainer]][xxbuilderbxx] |
+| [**discordlists.py**][discordlists-repo] | ![python]                   | [![discordlists-release]][discordlists-download] | [![discordlists-maintainer]][mattipv4]   |
+| [**JavaBotBlockAPI**][jbba-repo]         | ![java]                     | [![jbba-release]][jbba-download]                 | [![jbba-maintainer]][andre601]           |
