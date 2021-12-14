@@ -1,5 +1,7 @@
 <!-- GitHub Repositories -->
-[botblock-repo]: https://github.com/botblock/BotBlock.org
+[botblock-site-repo]: https://github.com/botblock/static-site
+[botblock-api-repo]: https://github.com/botblock/api-worker
+[botblock-data-repo]: https://github.com/botblock/data
 [botblock-github-io-repo]: https://github.com/botblock/botblock.github.io
 [best-practices-repo]: https://github.com/botblock/discord-botlist-best-practices
 
@@ -43,7 +45,7 @@
 
 <!-- Misc -->
 [website]: https://botblock.org
-[api]: https://botblock.org/api/docs
+[api]: https://botblock.org/docs
 
 [best-practices-bot]: https://github.com/meew0/discord-bot-best-practices
 
@@ -62,8 +64,14 @@ The Organisation contains various open source projects, including the code for t
 ## Projects
 A list of our actively maintained Projects. This does not include the different libraries for the [BotBlock API][api]. See [Libraries](#libraries) below for a list.
 
-### [BotBlock.org][botblock-repo]
-GitHub Repository containing the code of the [BotBlock.org website][website]
+### [static-site][botblock-site-repo]
+GitHub Repository containing the source for the [BotBlock.org website][website]
+
+### [api-worker][botblock-api-repo]
+GitHub Repository containing the source for the [BotBlock.org API][api]
+
+### [data][botblock-data-repo]
+GitHub Repository containing open data used by the [website][website] and [API][api]
 
 ### [botblock.github.io][botblock-github-io-repo]
 Repository used for https://docs.botblock.org.
